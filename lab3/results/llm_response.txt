@@ -1,0 +1,35 @@
+Model: gpt-6-luna
+
+## Codon-to-amino-acid groups
+
+| Amino acid | Codon(s) in your list |
+|---|---|
+| Arginine | AGA |
+| Asparagine | AAU |
+| Glutamine | CAA |
+| Isoleucine | AUA, AUU |
+| Leucine | UUA |
+| Lysine | AAA |
+| Methionine | AUG |
+| Threonine | ACA |
+| Tyrosine | UAU |
+
+There are **nine unique amino acids**. No Stop codon is included.
+
+## Qualitative screening list—not a ranking
+
+Foods such as **cucumber, iceberg lettuce, celery, radish, tomato, watermelon, and zucchini** are reasonable *candidates to investigate* for low amounts of all nine amino acids per 100 g edible portion, because they are generally low-protein foods. This is not a claim that they have the lowest measured amounts, or that they rank in the order listed.
+
+USDA FoodData Central has food records for these foods; the links below open searches for the relevant raw-food records:
+
+- [Cucumber, raw](https://fdc.nal.usda.gov/foods/search?query=cucumber%20raw)
+- [Lettuce, iceberg, raw](https://fdc.nal.usda.gov/foods/search?query=lettuce%20iceberg%20raw)
+- [Celery, raw](https://fdc.nal.usda.gov/foods/search?query=celery%20raw)
+- [Radishes, raw](https://fdc.nal.usda.gov/foods/search?query=radishes%20raw)
+- [Tomatoes, raw](https://fdc.nal.usda.gov/foods/search?query=tomatoes%20raw)
+- [Watermelon, raw](https://fdc.nal.usda.gov/foods/search?query=watermelon%20raw)
+- [Zucchini, raw](https://fdc.nal.usda.gov/foods/search?query=zucchini%20raw)
+
+**Limitation:** These are FDC food-record searches, not evidence that each record reports all nine amino acids. Food-composition records often lack individual amino-acid values, and an absent value must be treated as **missing**, not zero. Low protein can help identify candidates, but it cannot establish the amount or ranking of any particular amino acid. Therefore, I can’t responsibly give numerical amounts or an exact lowest-food ranking without matching records that actually report the relevant amino acids for each food on the same 100-g edible basis. FoodData Central is available at [fdc.nal.usda.gov](https://fdc.nal.usda.gov/).
+
+The viral codon counts describe genome triplets pooled across frames; they do not measure protein expression or imply dietary requirements or antiviral benefits.

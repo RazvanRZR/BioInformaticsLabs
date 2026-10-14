@@ -1,0 +1,18 @@
+This is an educational bioinformatics exercise. Genome: NC_038311.1 Human rhinovirus 1 strain ATCC VR-1559, complete genome.
+Frames scanned: +1, +2, +3. Counts are pooled across these frames; they are genome triplet counts, not measured protein expression.
+
+The ten most frequent RNA codons and their standard-code mappings are:
+AAA: 262 occurrences (3.68%) -> Lysine
+AAU: 240 occurrences (3.37%) -> Asparagine
+AUA: 210 occurrences (2.95%) -> Isoleucine
+AUG: 205 occurrences (2.88%) -> Methionine
+CAA: 205 occurrences (2.88%) -> Glutamine
+ACA: 199 occurrences (2.79%) -> Threonine
+AUU: 199 occurrences (2.79%) -> Isoleucine
+UAU: 189 occurrences (2.65%) -> Tyrosine
+AGA: 185 occurrences (2.60%) -> Arginine
+UUA: 175 occurrences (2.46%) -> Leucine
+
+Unique amino acids: Arginine, Asparagine, Glutamine, Isoleucine, Leucine, Lysine, Methionine, Threonine, Tyrosine.
+
+Make a list of foods containing the lowest amounts of these amino acids. Compare on a per-100-g edible-food basis. Cover every unique amino acid, group synonymous codons, and do not treat Stop as an amino acid. Use reliable food-composition sources, such as USDA FoodData Central, and cite the food records. Give numerical amounts only when supported by those records; missing nutrient data is not zero. If an exact ranking cannot be established, give a clearly labelled qualitative list and explain the limitation. Do not infer dietary requirements or antiviral benefits from viral codon frequencies.
